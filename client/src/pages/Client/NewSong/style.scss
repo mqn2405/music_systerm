@@ -1,0 +1,22 @@
+.newsong-player-button {
+  margin-top: 60px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+
+  button {
+    width: 250px;
+    padding: 10px 0;
+    border: none;
+    border-radius: 8px;
+    background-color: #252525;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}

@@ -1,0 +1,29 @@
+.singer-detail {
+  .singer-about {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .singer-avatar {
+    img {
+      width: 300px;
+      height: 300px;
+      border-radius: 20px;
+      border: 0.5px solid gray;
+    }
+  }
+
+  .singer-desc {
+    font-size: 16px;
+    white-space: pre-wrap;
+  }
+}
+
+.singer-song {
+  .title {
+    font-size: 24px;
+    font-weight: 700;
+  }
+}
